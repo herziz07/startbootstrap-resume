@@ -190,3 +190,13 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+/*
+Selected bg colors
+*/
+#about{
+  background-color: #FAF0E6;
+}
+
+#education{
+  background-color: #FAF0E6;
+}
